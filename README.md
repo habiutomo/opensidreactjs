@@ -8,7 +8,7 @@ OpenDesa adalah platform digitalisasi desa terpadu yang membantu pemerintah desa
 
 ![Screenshot of OpenDesa](opensid2.png)
 
-![Screenshot of OpenDesa](opensid3.png)
+![Screenshot of OpenDesa](opensid3.jpeg)
 
 ![Screenshot of OpenDesa](opensid4.png)
 ## 🚀 Fitur

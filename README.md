@@ -67,8 +67,7 @@ Kami sangat terbuka dengan kontribusi dari komunitas. Silakan buat pull request 
 ## 📧 Kontak
 
 Untuk informasi lebih lanjut, silakan hubungi:
-- Email: info@opendesa.id
-- Website: https://opendesa.id
+- Email: habizinnia@gmail.com
 
 ## 📄 Lisensi
 

@@ -2,6 +2,9 @@
 
 OpenDesa adalah platform digitalisasi desa terpadu yang membantu pemerintah desa dalam mengelola administrasi dan pelayanan publik secara digital.
 
+## 📸 Screenshot
+
+![Screenshot of OpenDesa](opensid.jpg)
 ## 🚀 Fitur
 
 - **Sistem Informasi Desa**: Pengelolaan data penduduk dan surat menyurat desa
